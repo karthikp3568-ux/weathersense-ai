@@ -1,0 +1,10 @@
+{
+  "name": "WeatherSense AI",
+  "description": "Intelligent Weather Monitoring and Forecasting System with AI Analysis and IoT Sensor Telemetry",
+  "requestFramePermissions": [
+    "geolocation"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
